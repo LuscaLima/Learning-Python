@@ -1,4 +1,4 @@
-# read a number and show your successor and predecessor
+# read a number and show its successor and predecessor
 
 number = int(input('A number: '))
 
