@@ -7,4 +7,4 @@ print('\n1 liter of paint paints 2m²\n')
 
 area = width * height
 print('Area: {}'.format(area))
-print('Required amount of ink: {} liters'.format(area / (2*2)))
+print('Required amount of ink: {} liters'.format(area / 2))
